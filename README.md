@@ -1,5 +1,5 @@
 # Proyecto_final_avance
-Este proyecto se me ocurrio un día jugando cartas, porque molestando dije algo como que pasaria si uno pudiera apostarle al tarot, y aunque fue en forma de chiste me quede pensando un poco en esto y plantee el juego:
+Este proyecto se me ocurrio un día jugando cartas, porque molestando dije algo como que pasaria si uno pudiera apostarle al tarot, y aunque fue en forma de chiste me quede pensando un poco en esto y plantee el juego; cuando me puse a plantearlo como codigo me di cuenta que podria usar muchas cosas referentes a lo que hemos visto en las clases, como herencia, poliformismo y en general iba a tener la capacidad de tener muchos objetos que hicieran cosas diferentes, principalmente por esto me incline porque senti que me daba las posibilidades de explorar mas a fondo lo que estabamos viendo en clases, tambien era algo que en general iba a disfrutar de hacer y siento que si lo logro desarrollar puede ser una buena idea.
 # Diagrama de clases:
 ![](https://github.com/Nicolle007/Proyecto_final_avance/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio%20(1).png)
 
